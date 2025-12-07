@@ -1,0 +1,46 @@
+═══════════════════════════════════════════════════════════════
+  MOD DE CANJE DE ANILLOS - INSTRUCCIONES RÁPIDAS
+═══════════════════════════════════════════════════════════════
+
+📦 INSTALACIÓN:
+1. Copia la carpeta del mod a: 
+   Windows: C:\Users\TU_USUARIO\Zomboid\mods\
+   Mac/Linux: ~/.local/share/Steam/steamapps/common/ProjectZomboid/mods/
+2. Activa el mod en el menú de mods del juego
+
+🎮 CÓMO CANJEAR ANILLOS:
+
+MÉTODO 1 - Tecla J (MÁS FÁCIL):
+   → Presiona la tecla "J" mientras juegas
+   → Se abrirá la ventana de canje
+
+MÉTODO 2 - Menú Contextual:
+   → Haz clic derecho en tu personaje o inventario
+   → Selecciona "Canje de Anillos (X / 1000)"
+   → Se abrirá la ventana de canje
+
+MÉTODO 3 - Consola (Avanzado):
+   → Abre la consola de depuración
+   → Escribe: RingExchangeUI.createWindow()
+
+📋 PASOS PARA CANJEAR:
+1. Recolecta anillos del mundo (casas, zombis, contenedores)
+2. El mod cuenta automáticamente cada anillo que agregas
+3. Cuando tengas 1000+ anillos, presiona "J" o usa el menú
+4. Selecciona un arma de la lista
+5. Haz clic en "Canjear Anillos por Arma"
+6. ¡Listo! El arma aparecerá en tu inventario
+
+💡 CONSEJOS:
+- Verás un mensaje cada vez que recolectas anillos
+- Tu progreso se guarda automáticamente
+- Puedes canjear múltiples veces si tienes suficientes anillos
+- Los anillos físicos NO se eliminan, solo se cuenta cuántos has recolectado
+
+❓ PROBLEMAS:
+- Si la tecla J no funciona, usa el menú contextual (clic derecho)
+- Asegúrate de tener al menos 1000 anillos recolectados
+- Verifica que el mod esté activado en el menú de mods
+
+═══════════════════════════════════════════════════════════════
+
