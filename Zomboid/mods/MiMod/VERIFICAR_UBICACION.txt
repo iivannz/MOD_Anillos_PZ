@@ -1,0 +1,36 @@
+═══════════════════════════════════════════════════════════════
+  VERIFICACIÓN DE UBICACIÓN DEL MOD
+═══════════════════════════════════════════════════════════════
+
+El mod está actualmente en:
+/Users/ivan/Zomboid/mods/MiMod/
+
+PERO, si usas Steam, los mods pueden estar en:
+~/Library/Application Support/Steam/steamapps/common/ProjectZomboid/mods/
+
+═══════════════════════════════════════════════════════════════
+
+PASOS PARA VERIFICAR:
+
+1. Abre Finder
+2. Presiona Cmd+Shift+G (Ir a carpeta)
+3. Pega esta ruta:
+   ~/Library/Application Support/Steam/steamapps/common/ProjectZomboid/mods/
+4. Verifica si existe la carpeta "mods" ahí
+5. Si existe, copia la carpeta MiMod ahí también
+
+═══════════════════════════════════════════════════════════════
+
+ESTRUCTURA CORRECTA DEL MOD:
+
+MiMod/
+├── mod.info
+├── preview.png
+└── lua/
+    ├── client/
+    │   └── Main.lua
+    └── shared/
+        └── Init.lua
+
+═══════════════════════════════════════════════════════════════
+

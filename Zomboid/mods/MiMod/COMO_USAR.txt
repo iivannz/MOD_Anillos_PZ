@@ -1,0 +1,59 @@
+═══════════════════════════════════════════════════════════════
+  CÓMO USAR EL MOD - INSTRUCCIONES PASO A PASO
+═══════════════════════════════════════════════════════════════
+
+PASO 1: REINICIAR EL JUEGO
+   → Cierra Project Zomboid completamente
+   → Vuelve a abrirlo
+
+PASO 2: ACTIVAR EL MOD
+   → En el menú principal del juego, busca "Mods"
+   → Busca "Mi Mod" en la lista
+   → Actívalo (debe tener un checkmark ✓)
+
+PASO 3: INICIAR UNA PARTIDA
+   → Crea una nueva partida O carga una existente
+   → Espera a que cargue completamente
+
+PASO 4: VERIFICAR QUE EL MOD FUNCIONA
+   → Cuando inicies la partida, tu personaje debería decir:
+     "DebugMenu.lua cargado - El mod está funcionando"
+   → Si escuchas esto, el mod está funcionando ✅
+
+PASO 5: PROBAR EL MENÚ CONTEXTUAL
+   → Abre tu inventario (presiona Tab o I)
+   → Haz clic DERECHO en cualquier item
+   → Tu personaje debería decir: "DEBUG: Menú abierto"
+   → En el menú deberías ver: "TEST - Esta opción siempre aparece"
+   → Si ves esto, el menú contextual funciona ✅
+
+PASO 6: INTERCAMBIAR ANILLOS
+   → Consigue un anillo (busca en casas, zombis, contenedores)
+   → Abre tu inventario
+   → Haz clic DERECHO en el anillo
+   → Deberías ver estas opciones:
+     • "3 Anillos → Hacha"
+     • "5 Anillos → Batería"
+     • "100 Anillos → Pistola"
+     • "150 Anillos → Piezas Motor"
+     • "250 Anillos → Escopeta"
+   → Selecciona la opción que quieras
+   → El anillo se removerá y obtendrás el item
+
+═══════════════════════════════════════════════════════════════
+
+¿QUÉ DEBERÍAS VER/ESCUCHAR?
+
+✅ FUNCIONA BIEN:
+   - Escuchas "DebugMenu.lua cargado" al iniciar
+   - Escuchas "DEBUG: Menú abierto" al hacer clic derecho
+   - Ves "TEST - Esta opción siempre aparece" en el menú
+   - Ves opciones de intercambio cuando haces clic derecho en un anillo
+
+❌ NO FUNCIONA:
+   - No escuchas ningún mensaje al iniciar
+   - No ves opciones en el menú contextual
+   - El personaje no dice nada
+
+═══════════════════════════════════════════════════════════════
+
