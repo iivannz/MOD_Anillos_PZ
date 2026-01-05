@@ -1,0 +1,61 @@
+═══════════════════════════════════════════════════════════════
+  MOD DE CANJE DE ANILLOS - INSTRUCCIONES RÁPIDAS
+═══════════════════════════════════════════════════════════════
+
+📦 INSTALACIÓN:
+1. Copia la carpeta del mod a: 
+   Windows: C:\Users\TU_USUARIO\Zomboid\mods\
+   Mac/Linux: ~/.local/share/Steam/steamapps/common/ProjectZomboid/mods/
+2. Activa el mod en el menú de mods del juego
+3. Reinicia completamente el juego
+
+🎮 CÓMO ABRIR LA TIENDA DE ANILLOS:
+
+MÉTODO 1 - Panel siempre visible (NUEVO - MÁS FÁCIL):
+   → En la esquina superior derecha verás un panel pequeño
+   → Haz clic en el botón "ABRIR TIENDA"
+   → Se abrirá la ventana de canje
+   → El panel muestra cuántos anillos tienes
+
+MÉTODO 2 - Clic derecho en anillos:
+   → Abre tu inventario
+   → Haz clic derecho en CUALQUIER anillo
+   → Selecciona "Abrir Tienda de Anillos (X anillos)"
+
+MÉTODO 3 - Clic derecho en tu personaje:
+   → Haz clic derecho en tu personaje
+   → Selecciona "Tienda de Anillos (X anillos)"
+
+MÉTODO 4 - Consola (Avanzado):
+   → Abre la consola de depuración (F11)
+   → Escribe: RingExchangeUI.createWindow()
+   → Presiona Enter
+
+📋 PASOS PARA CANJEAR:
+1. Recolecta anillos del mundo (casas, zombis, contenedores)
+2. El mod cuenta automáticamente cada anillo que agregas a tu inventario
+3. Usa el panel en la esquina superior derecha o clic derecho
+4. Selecciona un item de la lista
+5. Haz clic en "Canjear"
+6. ¡Listo! El item aparecerá en tu inventario
+
+💰 COSTOS DE ITEMS:
+- Hacha (Base.Axe): 50 anillos
+- Pistola (Base.Pistol): 100 anillos
+- Piezas de Motor (Base.EngineParts): 150 anillos
+- Escopeta (Base.Shotgun): 250 anillos
+
+💡 CONSEJOS:
+- Verás un mensaje cada vez que recolectas anillos
+- Tu progreso se guarda automáticamente
+- Puedes canjear múltiples veces si tienes suficientes anillos
+- Los anillos físicos NO se eliminan, solo se cuenta cuántos has recolectado
+- El panel en la esquina muestra tu progreso en tiempo real
+
+❓ PROBLEMAS:
+- Si no ves el panel, verifica que el mod esté activado
+- Reinicia completamente el juego después de activar el mod
+- Si el mod no funciona, revisa la consola (F11) para ver errores
+- Busca mensajes que digan "TEST:" o "SIMPLE TEST" en la consola
+
+═══════════════════════════════════════════════════════════════
